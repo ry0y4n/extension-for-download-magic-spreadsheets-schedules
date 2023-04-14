@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "hoge",
+    "version": "1.0",
+    "description": "hogefuga",
+    "content_scripts": [
+        {
+            "matches": ["https://deep-professor-e3c.notion.site/049ca5329bbc4493bc9f4f5b3727d027?*"],
+            "js": ["content.js"]
+        }
+    ]
+}
