@@ -9,3 +9,7 @@ Google Calendarにインポートすることでスケジュール管理する�
 ## 魔法のスプレッドシート
 
 [魔法のスプレッドシート2023・夏](https://deep-professor-e3c.notion.site/049ca5329bbc4493bc9f4f5b3727d027?v=3b000340195242b0bd4b0741063ec259)
+
+## デモ
+
+![](./images/calendar-demo.png)
